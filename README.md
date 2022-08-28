@@ -37,14 +37,17 @@ Here are some ideas to get you started:
 -->
 
 
-
+<p float="left">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=joy1954islam&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joy1954islam&show_icons=true&hide_border=true&layout=compact&hide=html,css,javascript"/>
+</p>
 
 
 <div align="center">
 
 <!-- 
 ![Md Joy Islam github stats](https://github-readme-stats.vercel.app/api?username=joy1954islam&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
-   -->
+  
 <a href="https://github.com/joy1954islam">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=joy1954islam&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Md Joy Islam GitHub Stats" />
   
@@ -58,7 +61,7 @@ Here are some ideas to get you started:
  <div>
 
 -----
-
+ -->
 #### Contribution Graph
 [![Md Joy Islam github activity graph](https://activity-graph.herokuapp.com/graph?username=joy1954islam&theme=react-dark)](https://activity-graph.herokuapp.com/graph?username=joy1954islam&theme=react-dark)
 
