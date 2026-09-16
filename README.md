@@ -1,106 +1,170 @@
-### Hi there 👋
-I am Md. Joy Islam. I am Software Engineer. I have 2+ year professional experience in Python, Django and Django Rest Framework. 
+# <div align="center">
 
-<!--
-**joy1954islam/joy1954islam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Md. Joy Islam
 
-Here are some ideas to get you started:
+### Senior Python Backend Engineer | Django | DRF | FinTech | Banking Systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Building secure, scalable and production-ready backend systems with Python.
 
-<!--
-<div align="center">
-<a href="https://github.com/joy1954islam">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=joy1954islam&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Md Joy Islam GitHub Stats" />
- <a href="https://github.com/joy1954islam">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joy1954islam&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Senior+Python+Backend+Engineer;Django+%7C+DRF+%7C+PostgreSQL;FinTech+%7C+Banking+%7C+Payment+Systems;Secure+API+and+Transaction+Processing" />
+</p>
+
+<p align="center">
+  <a href="mailto:joyislam1954@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/joy1954islam">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=joy1954islam&label=Profile%20Views&color=0e75b6&style=flat" />
+
 </div>
-</p>
-</br>
-</br>
-<div align="center">
-<a href="https://github.com/joy1954islam">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joy1954islam&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-</div>
-<!--
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=joy1954islam&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
--->
 
+---
 
-<p float="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=joy1954islam&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joy1954islam&show_icons=true&hide_border=true&layout=compact&hide=html,css,javascript"/>
-</p>
+# 🚀 About Me
 
+💼 **5+ years** of professional experience in backend development.
 
-<div align="center">
+I specialize in building:
 
-<!-- 
-![Md Joy Islam github stats](https://github-readme-stats.vercel.app/api?username=joy1954islam&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
-  
-<a href="https://github.com/joy1954islam">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=joy1954islam&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Md Joy Islam GitHub Stats" />
-  
-</br>
-</br>
-  
-<a href="https://github.com/joy1954islam">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joy1954islam&hide=html,javascript,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
+* 🏦 FinTech & Banking Systems
+* 💳 Fund Transfer Platforms
+* 💰 Bill Payment Services
+* 🔐 Secure APIs & Encryption
+* ⚡ High-performance Backend Systems
+* 🔄 Third-party API Integrations
+* 🐳 Docker-based Deployments
 
- <div>
+Currently working on:
 
------
- -->
-#### Contribution Graph
-[![Md Joy Islam github activity graph](https://activity-graph.herokuapp.com/graph?username=joy1954islam&theme=react-dark)](https://activity-graph.herokuapp.com/graph?username=joy1954islam&theme=react-dark)
+* NPSB / BEFTN / Within Bank Transfer
+* Payment Scheduling Systems
+* Transaction Reversal & Reconciliation
+* Wallet & Banking APIs
+* Financial Middleware Platforms
+* Push Notification System
 
------
-#### Connect With Me!
-[![Globe Badge](https://img.shields.io/badge/Portfolio-1877F2?style=for-the-badge&logo=globe&logoColor=white)](https://lamjoy.herokuapp.com/) 
-[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/JOY.SWE22)
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-joy-islam-a16174141/)
-[![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joyislam1954@gmail.com)
+---
+## 💼 Experience Snapshot
 
------
+| Company                               | Position                                 | Duration            |
+| ------------------------------------- | ---------------------------------------- | ------------------- |
+| 🏦 Upay (UCB Fintech Company Limited) | Senior Software Engineer | Feb 2024 – Present  |
+| 💻 EWN                                | Backend Developer                        | Aug 2023 – Jan 2024 |
+| 🚗 MYSAWARI                           | MID Backend Developer                    | Oct 2022 – Sep 2023 |
+| 🔐 Arena Web Security                 | Assistant Programmer                     | Oct 2021 – Sep 2022 |
 
-# Profile Visitor
+---
+# 🛠 Tech Stack
 
-![Visitor Count](https://profile-counter.glitch.me/joy1954islam/count.svg)
+### Languages
 
-# Programming languages
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=python" />
 </p>
 
-# Frameworks and Libraries
+### Backend
+
 <p>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=django" />
+  <img src="https://img.shields.io/badge/Django%20REST%20Framework-A30000?style=for-the-badge&logo=django&logoColor=white" />
 </p>
 
-# Databases
+### Database & Cache
+
 <p>
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-07405E?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis" />
 </p>
+
+### DevOps & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,git,linux,nginx,postman" />
+</p>
+
+---
+
+## 🏦 FinTech & Banking Expertise
+
+```text
+✔ Fund Transfer
+✔ Within Bank Transfer
+✔ NPSB
+✔ BEFTN
+✔ Payment Scheduling
+✔ Bill Payment
+✔ Transaction Reversal
+✔ CBS Integration
+✔ Wallet Services
+✔ Payment Gateway Integration
+✔ Secure Financial APIs
+✔ Transaction Reconciliation
+✔ Audit Logging
+```
+
+---
+
+## 🌟 Featured Projects
+
+### 💳 Banking Fund Transfer Platform
+
+Developed secure APIs for:
+
+* Within Bank Transfer
+* NPSB
+* BEFTN
+* Scheduled Transfer
+* Transaction Status Management
+* CBS Integration
+
+**Tech:** Python • Django • DRF • PostgreSQL • Docker
+
+---
+
+### 💰 Bill Payment Middleware
+
+A dynamic middleware platform supporting:
+
+* Multiple providers
+* Dynamic forms
+* Bill inquiry
+* Payment processing
+* Provider-specific mapping
+
+---
+
+### 📱 Push Notification Platform
+
+Features:
+
+* Google Login
+* JWT Authentication
+* Firebase FCM
+* Android / iOS / Web Support
+* Topic Notifications
+
+---
+## 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=joy1954islam&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🎯 Currently Learning
+
+* Advanced Django Architecture
+* Django Testing & Pytest
+* System Design
+* Distributed Systems
+* Redis & Caching
+* Kubernetes
+* CI/CD
+* AI / LLM Integration
+
+---
