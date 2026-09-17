@@ -56,7 +56,7 @@ Currently working on:
 | 🏦 Upay (UCB Fintech Company Limited) | Senior Software Engineer | Feb 2024 – Present  |
 | 💻 EWN                                | Backend Developer                        | Aug 2023 – Jan 2024 |
 | 🚗 MYSAWARI                           | MID Backend Developer                    | Oct 2022 – Sep 2023 |
-| 🔐 Arena Web Security                 | Assistant Programmer                     | Oct 2021 – Sep 2022 |
+| 🔐 Arena Web Security                 | Assistant Programmer                     | Jan 2021 – Sep 2022 |
 
 ---
 # 🛠 Tech Stack
